@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(to right, #eef2f3, #dfe9f3);
+    font-family: Arial, sans-serif;
+}
+
+/* NAVBAR */
+.custom-nav {
+    background: linear-gradient(90deg, #1f4037, #99f2c8);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* LOGO */
+.logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* CARDS */
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
+
+/* BUTTONS */
+.btn {
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+/* TABLE */
+table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* HEADINGS */
+h2, h3 {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* LOGIN BOX CENTER */
+.login-box {
+    max-width: 400px;
+    margin: auto;
+}
+
+body {
+    background: linear-gradient(135deg, #f6f9fc, #eef2f3);
+}
+
+.card {
+    border: none;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
